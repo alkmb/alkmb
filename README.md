@@ -1,4 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=alkmb)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 👋 Greetings, I'm Aleix Kambou.
 
 👀 I am passionate about building robust software solutions and continuously expanding my expertise in the dynamic fields of technology and cybersecurity. My commitment to excellence drives my relentless pursuit of knowledge, particularly in cutting-edge areas of software development, operating systems, and network security.
