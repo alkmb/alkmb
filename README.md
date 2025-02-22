@@ -13,4 +13,6 @@
 📫 **You can reach out to me through LinkedIn:** https://www.linkedin.com/in/akambou/  to explore potential collaborations or connect on professional endeavors. **For direct communication, feel free to email me at contact@aleixkambou.dev**.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkmb)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkmb)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkmb)](https://github.com/anuraghazra/github-readme-stats)  
