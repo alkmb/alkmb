@@ -1,18 +1,54 @@
-👋 Greetings, I'm Aleix Kambou.
+Greetings, I'm Aleix Kambou
 
-👀 I am passionate about building robust software solutions and continuously expanding my expertise in the dynamic fields of technology and cybersecurity. My commitment to excellence drives my relentless pursuit of knowledge, particularly in cutting-edge areas of software development, operating systems, and network security.
+🔐 **Chief Information Security Officer (CISO) at [IAndX]**, with a passion for building secure and scalable software platforms.  
+💡 I specialize in **cybersecurity**, **operating systems**, and **network administration**, with a strong foundation in low-level systems, compliance, and modern development practices.
 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alkmb)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 About Me
 
+I'm a dedicated technologist and problem solver, always seeking new challenges and knowledge in the ever-evolving landscape of technology and security.
 
-🌱 Currently, I am pursuing a degree in **Computer Science at 42 Barcelona**, while proactively specializing in **cybersecurity, operating systems, and network administration**. In addition to my formal education, I am deeply engaged in self-directed learning to broaden my understanding of various fields within technology.
+- 🧠 **Graduate of the 42 Barcelona Common Core**, where I mastered C, Unix internals, shell scripting, and peer-to-peer learning methodologies.
+- 🛡️ Focused on **enterprise security**, **compliance**, and **architecture** for AI-driven platforms.
+- 🧰 Strong in **technical support**, **incident response**, and **vulnerability assessment**.
+- 🌐 Actively expanding expertise in containerization, infrastructure as code, and offensive/defensive security techniques.
 
-💼 **I am currently employed as a Technical Support Specialist at TikTok,** where I handle complex technical tickets, ensuring swift and effective solutions to technical challenges. **This role has honed my problem-solving skills and deepened my understanding of large-scale systems, customer interactions, and operational workflows in a fast-paced tech environment.**
+---
 
-📫 **You can reach out to me through LinkedIn:** https://www.linkedin.com/in/akambou/  to explore potential collaborations or connect on professional endeavors. **For direct communication, feel free to email me at contact@aleixkambou.dev**.
+## 💼 Professional Experience
 
+- 🏢 **CISO at IAndX**  
+  Leading security strategy and compliance for a legal tech and automation company, ensuring privacy, resilience, and regulatory alignment.
 
+- 🎯 **Former Technical Support Specialist at TikTok**  
+  Managed high-priority technical issues, enhancing product reliability and support workflows for a global user base.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkmb)](https://github.com/anuraghazra/github-readme-stats) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkmb)](https://github.com/anuraghazra/github-readme-stats)  
+---
+
+## 📚 Currently Exploring
+
+- 🧩 Advanced topics in **Red Team/Blue Team operations**
+- 🖥️ **Kernel development** and **OS internals**
+- 🔐 Designing secure APIs and container-first infrastructures
+- 📈 Legal automation tools and **OCR-driven KYC solutions**
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akambou/)
+- 📧 Email: contact@aleixkambou.dev
+
+---
+
+## 🏆 GitHub Highlights
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alkmb&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkmb&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkmb&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+🛠️ _"Security is not a feature. It's a mindset."_
